@@ -286,27 +286,11 @@ jupyter notebook notebooks/02_Feature_Fusion_Training_and_XAI.ipynb
 
 ---
 
-## 📜 Citation
+## 📜 Citation (APA Format)
 
 If you use this feature fusion pipeline, machine learning models, or XAI framework in your research, please cite our IEEE paper:
 
-### BibTeX
-```bibtex
-@inproceedings{gokulram2026tamilser,
-  author    = {K, Gokul Ram and U, Vignesh and P K, Shyam Karthinathan},
-  title     = {Innovative Feature Fusion and XAI Framework for Robust Tamil Speech Emotion Recognition}, 
-  booktitle = {2026 7th International Conference on Inventive Research in Computing Applications (ICIRCA)}, 
-  year      = {2026},
-  month     = {June},
-  pages     = {983-989},
-  publisher = {IEEE},
-  doi       = {10.1109/ICIRCA11570588},
-  url       = {https://ieeexplore.ieee.org/abstract/document/11570588}
-}
-```
-
-### Text Citation
-> Gokul Ram K, Vignesh U, & Shyam Karthinathan P K (2026, June). Innovative Feature Fusion and XAI Framework for Robust Tamil Speech Emotion Recognition. In *2026 7th International Conference on Inventive Research in Computing Applications (ICIRCA)* (pp. 983-989). IEEE.
+> Vignesh, U., & PK, S. K. (2026, June). Innovative Feature Fusion and XAI Framework for Robust Tamil Speech Emotion Recognition. In 2026 7th International Conference on Inventive Research in Computing Applications (ICIRCA) (pp. 983-989). IEEE.
 
 ---
 
