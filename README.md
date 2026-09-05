@@ -300,6 +300,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 ## 🤝 Contact & Acknowledgments
-- **Authors:** Gokul Ram K, Vignesh U, Shyam Karthinathan P K
+- **First Author & Maintainer:** Gokul Ram K
+  - 📧 **Email:** [gokul.ram.kannan210905@gmail.com](mailto:gokul.ram.kannan210905@gmail.com)
+  - 💼 **LinkedIn:** [gokul-ram-k-277a6a308](https://www.linkedin.com/in/gokul-ram-k-277a6a308/)
+- **Co-Authors:** Vignesh U, Shyam Karthinathan P K
 - **Conference:** IEEE ICIRCA 2026
 - **Paper Link:** [IEEE Xplore Publication](https://ieeexplore.ieee.org/abstract/document/11570588)
