@@ -1,0 +1,28 @@
+# Tamil Speech Emotion Recognition (SER) Dependencies
+# Paper: "Innovative Feature Fusion and XAI Framework for Robust Tamil Speech Emotion Recognition" (IEEE ICIRCA 2026)
+
+# Core Numerical & Data Processing
+numpy>=1.22.0
+pandas>=1.4.0
+scipy>=1.8.0
+
+# Audio Processing & Feature Extraction
+librosa>=0.9.0
+soundfile>=0.10.0
+
+# Machine Learning Classifiers
+scikit-learn>=1.0.0
+xgboost>=1.6.0
+joblib>=1.1.0
+
+# Explainable AI (XAI) Frameworks
+shap>=0.41.0
+lime>=0.2.0
+
+# Visualization & Reporting
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+notebook>=6.4.0

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this feature fusion pipeline, machine learning models, or XAI framework in your research, please cite our IEEE ICIRCA 2026 paper as below."
+authors:
+  - family-names: "K"
+    given-names: "Gokul Ram"
+  - family-names: "U"
+    given-names: "Vignesh"
+  - family-names: "P K"
+    given-names: "Shyam Karthinathan"
+title: "Innovative Feature Fusion and XAI Framework for Robust Tamil Speech Emotion Recognition"
+version: 1.0.0
+date-released: 2026-06-18
+collection-title: "2026 7th International Conference on Inventive Research in Computing Applications (ICIRCA)"
+publisher: "IEEE"
+pages: "983-989"
+url: "https://ieeexplore.ieee.org/abstract/document/11570588"
+keywords:
+  - "Speech Emotion Recognition"
+  - "Tamil SER"
+  - "Feature Fusion"
+  - "Mel-Frequency Cepstral Coefficients (MFCC)"
+  - "Explainable AI (XAI)"
+  - "SHAP"
+  - "LIME"
+  - "Support Vector Machine"
